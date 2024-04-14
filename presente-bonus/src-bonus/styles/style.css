@@ -110,11 +110,15 @@ min-height: 100vh;
 }
 
 .section-02{
-    background-image: url("../img/background-bonus.png");
+    /* background-image: url("../img/image.png"); */
+    background-color: black;
+    background-size: 100%;
     background-repeat: repeat-y;
-}
+  }
 
 .section-02{
+  background-image: url("../img/image.png");
+
     display: none;
 }
 
